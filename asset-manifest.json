@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-convector-app/static/css/main.7db7b82f.css",
+    "main.js": "/react-convector-app/static/js/main.148b697f.js",
+    "index.html": "/react-convector-app/index.html",
+    "main.7db7b82f.css.map": "/react-convector-app/static/css/main.7db7b82f.css.map",
+    "main.148b697f.js.map": "/react-convector-app/static/js/main.148b697f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db7b82f.css",
+    "static/js/main.148b697f.js"
+  ]
+}
